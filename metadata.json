@@ -1,0 +1,7 @@
+{
+  "name": "Host AI",
+  "description": "A comprehensive agency dashboard for AI-driven restaurant lead outreach and voice automation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
